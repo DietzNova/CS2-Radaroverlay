@@ -43,5 +43,5 @@ The Radaroverlay is called Master, the information over the faceitmatch is calle
 > http://127.0.0.1:3001/169 or http://127.0.0.1:3001/43 for the resolution of your circle
 
 ## Donate
-[PayPal](paypal.me/DietzMarcel)
+[PayPal](https://paypal.me/DietzMarcel)
 
