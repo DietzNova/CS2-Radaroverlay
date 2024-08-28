@@ -42,3 +42,6 @@ The Radaroverlay is called Master, the information over the faceitmatch is calle
 * Notice: The overlay is optimized for the 1920x1080 as well as for 1280x960 csgo resolution. If you are playing other resolutions you have to move the browser window in the OBS scene or enlarge it.
 > http://127.0.0.1:3001/169 or http://127.0.0.1:3001/43 for the resolution of your circle
 
+## Donate
+[PayPal](paypal.me/DietzMarcel)
+
